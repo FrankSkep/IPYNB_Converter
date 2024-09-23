@@ -2,6 +2,12 @@
 
 Aplicación de escritorio desarrollada con Python y Tkinter, que permite convertir archivos Jupyter Notebook (`.ipynb`) a formatos HTML y Markdown.
 
+## Funcionalidades
+
+- **Seleccionar archivo**: Permite seleccionar un archivo Jupyter Notebook (`.ipynb`) desde el sistema de archivos.
+- **Convertir a HTML**: Convierte el archivo seleccionado a formato HTML.
+- **Convertir a Markdown**: Convierte el archivo seleccionado a formato Markdown.
+
 ## Requisitos
 
 - Python 3.x
@@ -29,9 +35,3 @@ Aplicación de escritorio desarrollada con Python y Tkinter, que permite convert
 2. Haz clic en "Seleccionar archivo" para elegir un archivo `.ipynb`.
 3. Selecciona el formato de conversión deseado (HTML o Markdown) haciendo clic en el botón correspondiente.
 4. Guarda el archivo convertido en la ubicación deseada.
-
-## Funcionalidades
-
-- **Seleccionar archivo**: Permite seleccionar un archivo Jupyter Notebook (`.ipynb`) desde el sistema de archivos.
-- **Convertir a HTML**: Convierte el archivo seleccionado a formato HTML.
-- **Convertir a Markdown**: Convierte el archivo seleccionado a formato Markdown.
